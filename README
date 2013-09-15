@@ -1,0 +1,14 @@
+/**
+*  createvm.sh
+*  author: Ryan Hartje
+*  version: 0.3
+*
+* Createvm was designed to create virtual machines from the command line interface (or called by a script)
+*
+* My copy assumes that you have an SSD drive, and a primary datastore, datastore1 which you will be installing to. 
+* If your setup does not match this, you will need to be sure to edit this configuration to include your datastores.
+*
+* If you have any questions, feel free to leave questions on my github or email me at
+* ryan@ryanhartje.com
+*
+**/
